@@ -3,4 +3,5 @@ project(programming_labs)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(programming_labs main.cpp)
+add_executable(programming_labs main.cpp
+        lab2ab.cpp)
